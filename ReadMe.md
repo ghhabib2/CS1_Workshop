@@ -6,6 +6,7 @@ Here is the first version of the GitHub workshop material and PowerPoint Slides.
 
 All the files for GitHub pages included in this folder. You can see the demo of it [here](https://ghhabib2.github.io)
 
-## Slides
+## CV
 
-Has the first draft of the slides. It is not complete yet and I need to add some references to the end of it.
+Latex CV template
+
